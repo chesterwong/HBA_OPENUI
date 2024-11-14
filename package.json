@@ -1,0 +1,17 @@
+{
+  "name": "ui5.Chester",
+  "version": "1.0.0",
+  "description": "The UI5 Chester application",
+  "scripts": {
+    "start": "ui5 serve -o index.html"
+  },
+  "dependencies": {
+    "nvm": "^0.0.4",
+    "nvmw": "^1.0.0"
+  },
+  "main": "index.js",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
